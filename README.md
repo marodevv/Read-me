@@ -8,20 +8,20 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **marodevv@gmail.com**
-  &emsp; 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marodevv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marwan-mostafa-4ba111210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-mostafa-4ba111210" height="30" width="40" /></a>
-<a href="https://fb.com/marwanmostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwanmostafa24" height="30" width="40" /></a>
-<a href="https://instagram.com/marwan_mostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marwan_mostafa24" height="30" width="40" /></a>
-<a href="https://hashnode.com/@marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@marodevv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marodevv" height="30" width="40" /></a>
+      &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+
 </p>
-![Html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)&nbsp;
+
 <h3 align="left">My toolbox</h3>
 <h4 style="margin-top: 2rem" align="left">Frontend</h3>
 <p>
