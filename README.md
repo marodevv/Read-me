@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marodevv" height="30" width="40" /></a>
 </p>
 
-<div style="text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
+<div style="padding: 1rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
   <a href="" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
   </a>
