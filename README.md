@@ -21,8 +21,9 @@
 
 <h3 align="left">My toolbox</h3>
 <div>
-  <h4 style="margin-top: 2rem" align="left">Frontend</h3>
-  <br />
+      <a href="#" target="_blank"> 
+     <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red">
+  </a>
   
   <a href="#" target="_blank"> 
      <img alt="Html" src="https://img.shields.io/badge/Html--white">
@@ -56,10 +57,10 @@
      <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </a>
 
-
-    <h4 style="margin-top: 2rem" align="left">Backend (currently learning)</h3>
-
-
+      <a href="#" target="_blank"> 
+     <img alt="Backend(currently learning)" src="https://img.shields.io/badge/Backend(currently learning)--red">
+  </a>
+  
   <a href="#" target="_blank"> 
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB--white">
   </a>
@@ -72,9 +73,9 @@
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js--white">
   </a>
 
-    <br />
-    <h4 style="margin-top: 2rem" align="left">General</h3>
-    <br />
+    <a href="#" target="_blank"> 
+     <img alt="General" src="https://img.shields.io/badge/General--red">
+  </a>
 
 
   <a href="#" target="_blank"> 
@@ -96,19 +97,20 @@
     <a href="#" target="_blank"> 
      <img alt="Figma" src="https://img.shields.io/badge/Figma--white">
   </a>
-  
-    <br />
-    <h4 style="margin-top: 2rem" align="left">Other</h3>
-    <br />
 
-        <a href="#" target="_blank"> 
+    <a href="#" target="_blank"> 
+     <img alt="Other" src="https://img.shields.io/badge/Other--red">
+  </a>
+  
+  <a href="#" target="_blank"> 
      <img alt="APIs Fetching" src="https://img.shields.io/badge/APIs Fetching--white">
   </a>
   
-      <a href="#" target="_blank"> 
+  <a href="#" target="_blank"> 
      <img alt="CRUD Operations" src="https://img.shields.io/badge/CRUD Operations--white">
   </a>
-      <a href="#" target="_blank"> 
+  
+  <a href="#" target="_blank"> 
      <img alt="Js Libraries" src="https://img.shields.io/badge/Js Libraries--white">
   </a>
   
