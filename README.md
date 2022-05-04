@@ -20,8 +20,7 @@
 </p>
 
 <h3 align="left">My toolbox</h3>
-<br />
-<h4 align="left">Frontend</h3>
+<h4 style="margin-top: 2rem" align="left">Frontend</h3>
 <p>
     <a href="" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" align="center" />
@@ -71,7 +70,7 @@
         Framer motion
     </a>
     <br />
-    <h4 align="left">Backend (currently learning)</h3>
+    <h4 style="margin-top: 2rem" align="left">Backend (currently learning)</h3>
     <br />
     <a href="" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" align="center" />
@@ -129,7 +128,7 @@
         Figma
     </a>
     <br />
-    <h4 align="left">Other</h3>
+    <h4 style="margin-top: 2rem" align="left">Other</h3>
     <br />
     <a href="" target="_blank">
         APIs Fetching
