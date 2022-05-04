@@ -22,12 +22,12 @@
 <h3 align="left">My toolbox</h3>
 <p style="display:flex;justify-content:center;align-items:center;">
     <a href="" target="_blank">  
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" />
         <br />
         React
     </a>
     <a href="" target="_blank">  
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" />
         <br />
         React
     </a>
