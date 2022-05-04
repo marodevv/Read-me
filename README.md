@@ -25,7 +25,7 @@
   <br />
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/tailwindcss">
+     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-alk-cyan">
   </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
