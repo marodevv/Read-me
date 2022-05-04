@@ -24,52 +24,52 @@
   <h4 style="margin-top: 2rem" align="left">Frontend</h3>
   <br />
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <a href="#" target="_blank"> 
+     <img alt="Html" src="https://img.shields.io/badge/Html--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Css" src="https://img.shields.io/badge/Css--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Sass" src="https://img.shields.io/badge/Sass-white">
+  </a>
+  
+  <a href="#" target="_blank"> 
+     <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-white">
+  </a>
+  
+  <a href="#" target="_blank"> 
+     <img alt="Styled components" src="https://img.shields.io/badge/Styled components-white">
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript--white">
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React--white">
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </a>
 
     <br />
     <h4 style="margin-top: 2rem" align="left">Backend (currently learning)</h3>
     <br />
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Express" src="https://img.shields.io/badge/Express--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Node.js" src="https://img.shields.io/badge/Node.js--white">
   </a>
 
     <br />
@@ -77,30 +77,41 @@
     <br />
 
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Vite" src="https://img.shields.io/badge/Vite--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="VS Code" src="https://img.shields.io/badge/VS Code--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Github" src="https://img.shields.io/badge/Github--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <a href="#" target="_blank"> 
+     <img alt="Git" src="https://img.shields.io/badge/Git--white">
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+    <a href="#" target="_blank"> 
+     <img alt="Figma" src="https://img.shields.io/badge/Figma--white">
   </a>
-
+  
     <br />
     <h4 style="margin-top: 2rem" align="left">Other</h3>
     <br />
 
+        <a href="#" target="_blank"> 
+     <img alt="APIs Fetching" src="https://img.shields.io/badge/APIs Fetching--white">
+  </a>
+  
+      <a href="#" target="_blank"> 
+     <img alt="CRUD Operations" src="https://img.shields.io/badge/CRUD Operations--white">
+  </a>
+      <a href="#" target="_blank"> 
+     <img alt="Js Libraries" src="https://img.shields.io/badge/Js Libraries--white">
+  </a>
+  
 </div>
 
 <br />
