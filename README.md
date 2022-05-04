@@ -26,7 +26,7 @@
   </span>
   
   <span>
-     <img alt="Css" src="https://img.shields.io/badge/-Css-#ADD8E6?logo=css&amp;style=for-the-badge">
+     <img alt="Css" src="https://img.shields.io/badge/-Css-yellowgreen?logo=css&amp;style=for-the-badge">
   </span>
   
   <span>
@@ -66,7 +66,7 @@
   </span>
   
   <span>
-     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-yellowgreen?logo=nodejs&amp;style=for-the-badge">
+     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-yellowgreen?logo=nodedotjs&amp;style=for-the-badge">
   </span>
 
   <p>
