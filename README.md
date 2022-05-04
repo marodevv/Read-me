@@ -21,13 +21,13 @@
 
 <h3 align="left">My toolbox</h3>
 <div style="display:flex;justify-content:center;align-items:center;">
-<div style="padding: 1rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
+  <div style="padding: 1rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
   <a href="" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
   </a>
   <p>React</p>
-</div>
-<div style="padding: 1rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
+  </div>
+  <div style="margin-left:1rem;padding: 1rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
   <a href="" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
   </a>
