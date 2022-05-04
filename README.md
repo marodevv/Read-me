@@ -20,10 +20,10 @@
 </p>
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
-  <p>React</p>
   <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" />
   </a>
+  <p>React</p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
