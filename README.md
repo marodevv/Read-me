@@ -22,11 +22,11 @@
 <h3 align="left">My toolbox</h3>
 <h4 style="margin-top: 2rem" align="left">Frontend</h3>
 <p>
-    <div href="" target="_blank">  
+    <a href="" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" align="center" />
         <br />
         Html
-    </div>
+    </a>
     <br />
     <a href="" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" align="center" />
