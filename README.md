@@ -21,18 +21,14 @@
 
 <h3 align="left">My toolbox</h3>
 <p style="display:flex;justify-content:center;align-items:center;">
-  <div style="padding:1rem;text-align:center;">
-    <a href="" target="_blank">
+  <a href="" target="_blank">  
       asd
+    React
     </a>
-    <p>React</p>
-  </div>
-  <div style="padding:1rem;text-align:center;">
-    <a href="" target="_blank">
+    <a href="" target="_blank">  
       asd
+    React
     </a>
-    <p>React</p>
-  </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
