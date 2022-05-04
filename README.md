@@ -56,9 +56,9 @@
      <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </a>
 
-    <br />
+
     <h4 style="margin-top: 2rem" align="left">Backend (currently learning)</h3>
-    <br />
+
 
   <a href="#" target="_blank"> 
      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB--white">
