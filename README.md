@@ -21,17 +21,17 @@
      <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red" width="125">
   </p>
   
-  <p>
+  <span>
      <img alt="Html" src="https://img.shields.io/badge/Html--white">
-  </p>
+  </span>
   
-  <p>
+  <span>
      <img alt="Css" src="https://img.shields.io/badge/Css--white">
-  </p>
+  </span>
   
-  <p>
+  <span>
      <img alt="Sass" src="https://img.shields.io/badge/Sass--white">
-  </p>
+  </span>
   
   <p>
      <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss--white">
