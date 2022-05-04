@@ -46,11 +46,13 @@
     </a>
     </div>
     <br />
+    <div>
     <a href="#" target="_blank">  
        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" align="center" />
         <br />
         Tailwindcss
     </a>
+    </div>
     <br />
     <div>
     <a href="#" target="_blank">  
@@ -60,11 +62,13 @@
     </a>
     </div>
     <br />
+    <div>
     <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" align="center" />
         <br />
         Javascript
     </a>
+    </div>
     <br />
     <div>
     <a href="#" target="_blank">  
