@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marodevv" height="30" width="40" /></a>
 </p>
 
-<div style="display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
+<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
   <p>
     React <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" /></a>
   </p>
