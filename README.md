@@ -53,7 +53,7 @@
      <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </span>
 
-  <p style="margin:2rem 0;">
+  <p style="margin:2rem 0rem;">
      <img alt="Backend(currently learning)" src="https://img.shields.io/badge/Backend(currently learning)--red" width="275">
   </p>
   
