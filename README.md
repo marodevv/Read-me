@@ -49,8 +49,8 @@
      <img alt="React" src="https://img.shields.io/badge/React--white">
   </span>
 
-  <span style="margin-bottom:2rem;">
-     <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
+  <span >
+     <img style="margin-bottom:2rem;" alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </span>
 
   <p style="margin-bottom:2rem;">
