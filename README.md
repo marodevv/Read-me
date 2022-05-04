@@ -33,15 +33,15 @@
   </a>
   
   <a href="#" target="_blank"> 
-     <img alt="Sass" src="https://img.shields.io/badge/Sass-white">
+     <img alt="Sass" src="https://img.shields.io/badge/Sass--white">
   </a>
   
   <a href="#" target="_blank"> 
-     <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-white">
+     <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss--white">
   </a>
   
   <a href="#" target="_blank"> 
-     <img alt="Styled components" src="https://img.shields.io/badge/Styled components-white">
+     <img alt="Styled components" src="https://img.shields.io/badge/Styled components--white">
   </a>
 
   <a href="#" target="_blank"> 
