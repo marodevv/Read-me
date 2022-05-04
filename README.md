@@ -21,8 +21,8 @@
 
 <h3 align="left">My toolbox</h3>
 <div>
-  <p href="#" target="_blank"> 
-     <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red">
+  <p style="display: inline;" href="#" target="_blank"> 
+     <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red" width="100">
   </p>
   
   <p href="#" target="_blank"> 
