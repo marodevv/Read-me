@@ -53,7 +53,7 @@
      <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </span>
 
-  <p style="margin-bottom:2rem;">
+  <p style="margin:2rem 0;">
      <img alt="Backend(currently learning)" src="https://img.shields.io/badge/Backend(currently learning)--red" width="275">
   </p>
   
@@ -69,7 +69,7 @@
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js--white">
   </span>
 
-  <p style="margin-bottom:2rem;">
+  <p style="margin:2rem 0;">
      <img alt="General" src="https://img.shields.io/badge/General--red"  width="125">
   </p>
 
@@ -94,7 +94,7 @@
      <img alt="Figma" src="https://img.shields.io/badge/Figma--white">
   </span>
 
-  <p style="margin-bottom:2rem;">
+  <p style="margin:2rem 0;">
      <img alt="Other" src="https://img.shields.io/badge/Other--red" width="125">
   </p>
   
