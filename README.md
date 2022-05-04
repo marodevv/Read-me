@@ -17,7 +17,7 @@
 
 <h3 align="left">My toolbox</h3>
 <div>
-  <p style="margin-bottom:2rem;"> 
+  <p> 
      <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red" width="125">
   </p>
   
@@ -50,10 +50,10 @@
   </span>
 
   <span >
-     <img style="margin-bottom:2rem;" alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
+     <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </span>
 
-  <p style="margin-bottom:2rem;">
+  <p>
      <img alt="Backend(currently learning)" src="https://img.shields.io/badge/Backend(currently learning)--red" width="275">
   </p>
   
@@ -65,11 +65,11 @@
      <img alt="Express" src="https://img.shields.io/badge/Express--white">
   </span>
   
-  <span style="margin-bottom:2rem;">
+  <span>
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js--white">
   </span>
 
-  <p style="margin-bottom:2rem;">
+  <p>
      <img alt="General" src="https://img.shields.io/badge/General--red"  width="125">
   </p>
 
@@ -90,11 +90,11 @@
      <img alt="Git" src="https://img.shields.io/badge/Git--white">
   </span>
   
-  <span style="margin-bottom:2rem;">
+  <span>
      <img alt="Figma" src="https://img.shields.io/badge/Figma--white">
   </span>
 
-  <p style="margin-bottom:2rem;">
+  <p>
      <img alt="Other" src="https://img.shields.io/badge/Other--red" width="125">
   </p>
   
@@ -106,7 +106,7 @@
      <img alt="CRUD Operations" src="https://img.shields.io/badge/CRUD Operations--white">
   </span>
   
-  <span style="margin-bottom:2rem;">
+  <span>
      <img alt="Js Libraries" src="https://img.shields.io/badge/Js Libraries--white">
   </span>
   
