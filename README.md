@@ -9,13 +9,13 @@
 
 - 📫 How to reach me **marodevv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">    
 <a href="https://linkedin.com/in/marwan-mostafa-4ba111210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-mostafa-4ba111210" height="30" width="40" /></a>
 <a href="https://fb.com/marwanmostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwanmostafa24" height="30" width="40" /></a>
 <a href="https://instagram.com/marwan_mostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marwan_mostafa24" height="30" width="40" /></a>
 
-<h3 align="left">My toolbox</h3>
+<h2 align="left">My toolbox</h3>
 <div>
   <p> 
      <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-eee" width="125">
