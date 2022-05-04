@@ -22,49 +22,49 @@
 <h3 align="left">My toolbox</h3>
 <h4 style="margin-top: 2rem" align="left">Frontend</h3>
 <p>
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" align="center" />
         <br />
         Html
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" align="center" />
         <br />
         Css
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60" align="center" />
         <br />
         Sass
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" align="center" />
         <br />
         Tailwindcss
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://gozattila.dev/static/media/styled_components.a46dc006.png" width="60" height="60" align="center" />
         <br />
         Styled-components
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" align="center" />
         <br />
         Javascript
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" align="center" />
         <br />
         React
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.iconscout.com/icon/free/png-256/framer-logo-3609961-3014601.png" width="60" height="60" align="center" />
         <br />
         Framer motion
@@ -72,19 +72,19 @@
     <br />
     <h4 style="margin-top: 2rem" align="left">Backend (currently learning)</h3>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" align="center" />
         <br />
         MongoDB
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" align="center" />
         <br />
         Express
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" align="center" />
         <br />
         Node.js
@@ -92,37 +92,37 @@
     <br />
     <h4 align="left">General</h3>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://vitejs.dev/logo.svg" width="60" height="60" align="center" />
         <br />
         Vite
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" align="center" />
         <br />
         VS Code
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" align="center" />
         <br />
         Github
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" align="center" />
         <br />
         Git
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://1000logos.net/wp-content/uploads/2020/09/Cloudflare-emblem.jpeg" width="60" height="60" align="center" />
         <br />
         Cloudflare
     </a>
     <br />
-    <a href="" target="_blank">  
+    <a href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" align="center" />
         <br />
         Figma
@@ -130,19 +130,19 @@
     <br />
     <h4 style="margin-top: 2rem" align="left">Other</h3>
     <br />
-    <a href="" target="_blank">
+    <a href="#" target="_blank">
         APIs Fetching
     </a>
     <br />
-    <a href="" target="_blank">
+    <a href="#" target="_blank">
         CRUD Operations
     </a>
     <br />
-    <a href="" target="_blank">
+    <a href="#" target="_blank">
         Js libraries
     </a>
     <br />
-    <a href="" target="_blank">
+    <a href="#" target="_blank">
         Js algo & ds
     </a>
 </p>
