@@ -21,13 +21,13 @@
 
 <h3 align="left">My toolbox</h3>
 <p style="display:flex;justify-content:center;align-items:center;">
-  <div style="padding:1rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
+  <div style="padding:1rem;text-align:center;">
     <a href="" target="_blank">
       asd
     </a>
     <p>React</p>
   </div>
-  <div style="padding:1rem;text-align:center;display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
+  <div style="padding:1rem;text-align:center;">
     <a href="" target="_blank">
       asd
     </a>
