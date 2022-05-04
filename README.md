@@ -21,13 +21,13 @@
 
 <h3 align="left">My toolbox</h3>
 <p>
-    <a align="center" href="" target="_blank">  
+    <a href="" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" align="center" />
         <br />
         React
     </a>
     <br />
-    <a align="center" href="" target="_blank">  
+    <a href="" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" align="center" />
         <br />
         React
