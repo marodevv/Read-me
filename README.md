@@ -22,13 +22,13 @@
 <h3 align="left">My toolbox</h3>
 <h4 style="margin-top: 2rem" align="left">Frontend</h3>
 <p>
-    <a href="#" target="_blank">  
+    <a style="display: inline-block;" href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" align="center" />
         <br />
         Html
     </a>
     <br />
-    <a href="#" target="_blank">  
+    <a style="display: inline-block;" href="#" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" align="center" />
         <br />
         Css
