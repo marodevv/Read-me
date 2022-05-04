@@ -18,23 +18,23 @@
 <h3 align="left">My toolbox</h3>
 <div>
   <p> 
-     <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-important?logo=styled-components" width="125">
+     <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-important" width="125">
   </p>
   
   <span>
-     <img alt="Html" src="https://img.shields.io/badge/-Html-green?style=for-the-badge">
+     <img alt="Html" src="https://img.shields.io/badge/-Html-green?style=for-the-badge?logo=html">
   </span>
   
   <span>
-     <img alt="Css" src="https://img.shields.io/badge/-Css-green?style=for-the-badge">
+     <img alt="Css" src="https://img.shields.io/badge/-Css-green?style=for-the-badge?logo=css">
   </span>
   
   <span>
-     <img alt="Sass" src="https://img.shields.io/badge/-Sass-green?style=for-the-badge">
+     <img alt="Sass" src="https://img.shields.io/badge/-Sass-green?style=for-the-badge?logo=sass">
   </span>
   
   <span>
-     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-green?style=for-the-badge">
+     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-green?style=for-the-badge?logo=tailwind-css">
   </span>
   
   <span>
