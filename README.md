@@ -8,7 +8,10 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **marodevv@gmail.com**
-
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marodevv" height="30" width="40" /></a>
