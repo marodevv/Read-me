@@ -79,7 +79,7 @@
   </span>
   
   <span>
-     <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-yellowgreen?logo=vscode&amp;style=for-the-badge">
+     <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-yellowgreen?logo=visualstudiocode&amp;style=for-the-badge">
   </span>
   
   <span>
