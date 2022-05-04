@@ -18,96 +18,96 @@
 <h3 align="left">My toolbox</h3>
 <div>
   <p> 
-     <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-informational" width="125">
+     <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-important" width="125">
   </p>
   
   <span>
-     <img alt="Html" src="https://img.shields.io/badge/-Html-important?style=for-the-badge">
+     <img alt="Html" src="https://img.shields.io/badge/-Html-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Css" src="https://img.shields.io/badge/-Css-important?style=for-the-badge">
+     <img alt="Css" src="https://img.shields.io/badge/-Css-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Sass" src="https://img.shields.io/badge/-Sass-important?style=for-the-badge">
+     <img alt="Sass" src="https://img.shields.io/badge/-Sass-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-important?style=for-the-badge">
+     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Styled components" src="https://img.shields.io/badge/-Styled components-important?style=for-the-badge">
+     <img alt="Styled components" src="https://img.shields.io/badge/-Styled components-success?style=for-the-badge">
   </span>
 
   <span>
-     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-important?style=for-the-badge">
+     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-success?style=for-the-badge">
   </span>
 
   <span>
-     <img alt="React" src="https://img.shields.io/badge/-React-important?style=for-the-badge">
+     <img alt="React" src="https://img.shields.io/badge/-React-success?style=for-the-badge">
   </span>
 
   <span >
-     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-important?style=for-the-badge">
+     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-success?style=for-the-badge">
   </span>
 
   <p>
-     <img alt="Backend(currently learning)" src="https://img.shields.io/badge/-Backend(currently learning)-informational" width="350">
+     <img alt="Backend(currently learning)" src="https://img.shields.io/badge/-Backend(currently learning)-inactive" width="350">
   </p>
   
   <span> 
-     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-important?style=for-the-badge">
+     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-inactive?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Express" src="https://img.shields.io/badge/-Express-important?style=for-the-badge">
+     <img alt="Express" src="https://img.shields.io/badge/-Express-inactive?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-important?style=for-the-badge">
+     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-inactive?style=for-the-badge">
   </span>
 
   <p>
-     <img alt="General" src="https://img.shields.io/badge/-General-informational"  width="125">
+     <img alt="General" src="https://img.shields.io/badge/-General-important"  width="125">
   </p>
 
 
   <span>
-     <img alt="Vite" src="https://img.shields.io/badge/-Vite-important?style=for-the-badge">
+     <img alt="Vite" src="https://img.shields.io/badge/-Vite-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-important?style=for-the-badge">
+     <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Github" src="https://img.shields.io/badge/-Github-important?style=for-the-badge">
+     <img alt="Github" src="https://img.shields.io/badge/-Github-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Git" src="https://img.shields.io/badge/-Git-important?style=for-the-badge">
+     <img alt="Git" src="https://img.shields.io/badge/-Git-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Figma" src="https://img.shields.io/badge/-Figma-important?style=for-the-badge">
+     <img alt="Figma" src="https://img.shields.io/badge/-Figma-success?style=for-the-badge">
   </span>
 
   <p>
-     <img alt="Other" src="https://img.shields.io/badge/-Other-informational" width="125">
+     <img alt="Other" src="https://img.shields.io/badge/-Other-important" width="100">
   </p>
   
   <span>
-     <img alt="APIs Fetching" src="https://img.shields.io/badge/-APIs Fetching-important?style=for-the-badge">
+     <img alt="APIs Fetching" src="https://img.shields.io/badge/-APIs Fetching-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="CRUD Operations" src="https://img.shields.io/badge/-CRUD Operations-important?style=for-the-badge">
+     <img alt="CRUD Operations" src="https://img.shields.io/badge/-CRUD Operations-success?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Js Libraries" src="https://img.shields.io/badge/-Js Libraries-important?style=for-the-badge">
+     <img alt="Js Libraries" src="https://img.shields.io/badge/-Js Libraries-success?style=for-the-badge">
   </span>
   
 </div>
