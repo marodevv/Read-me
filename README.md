@@ -50,7 +50,7 @@
   </span>
 
   <span >
-     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-yellowgreen?logo=framermotion&amp;style=for-the-badge">
+     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-yellowgreen?logo=framer&amp;style=for-the-badge">
   </span>
 
   <p>
