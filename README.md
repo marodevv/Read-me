@@ -18,39 +18,39 @@
 <h3 align="left">My toolbox</h3>
 <div>
   <p> 
-     <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-important" width="125">
+     <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-eee" width="125">
   </p>
   
   <span>
-     <img alt="Html" src="https://img.shields.io/badge/-Html-eee?logo=html5&amp;style=for-the-badge">
+     <img alt="Html" src="https://img.shields.io/badge/-Html-101010?logo=html5&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Css" src="https://img.shields.io/badge/-Css-eee?logo=css&amp;style=for-the-badge">
+     <img alt="Css" src="https://img.shields.io/badge/-Css-101010?logo=css&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Sass" src="https://img.shields.io/badge/-Sass-eee?logo=sass&amp;style=for-the-badge">
+     <img alt="Sass" src="https://img.shields.io/badge/-Sass-101010?logo=sass&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-eee?logo=tailwindcss&amp;style=for-the-badge">
+     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-101010?logo=tailwindcss&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Styled components" src="https://img.shields.io/badge/-Styled components-eee?logo=styled-components&amp;style=for-the-badge">
+     <img alt="Styled components" src="https://img.shields.io/badge/-Styled components-101010?logo=styled-components&amp;style=for-the-badge">
   </span>
 
   <span>
-     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-eee?logo=javascript&amp;style=for-the-badge">
+     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-101010?logo=javascript&amp;style=for-the-badge">
   </span>
 
   <span>
-     <img alt="React" src="https://img.shields.io/badge/-React-eee?logo=react&amp;style=for-the-badge">
+     <img alt="React" src="https://img.shields.io/badge/-React-101010?logo=react&amp;style=for-the-badge">
   </span>
 
   <span >
-     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-eee?logo=framer&amp;style=for-the-badge">
+     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-101010?logo=framer&amp;style=for-the-badge">
   </span>
 
   <p>
@@ -58,56 +58,56 @@
   </p>
   
   <span> 
-     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-eee?logo=mongodb&amp;style=for-the-badge">
+     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-101010?logo=mongodb&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Express" src="https://img.shields.io/badge/-Express-eee?logo=express&amp;style=for-the-badge">
+     <img alt="Express" src="https://img.shields.io/badge/-Express-101010?logo=express&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-eee?logo=nodedotjs&amp;style=for-the-badge">
+     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-101010?logo=nodedotjs&amp;style=for-the-badge">
   </span>
 
   <p>
-     <img alt="General" src="https://img.shields.io/badge/-General-important"  width="125">
+     <img alt="General" src="https://img.shields.io/badge/-General-eee"  width="125">
   </p>
 
 
   <span>
-     <img alt="Vite" src="https://img.shields.io/badge/-Vite-eee?logo=vite&amp;style=for-the-badge">
+     <img alt="Vite" src="https://img.shields.io/badge/-Vite-101010?logo=vite&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-eee?logo=visualstudiocode&amp;style=for-the-badge">
+     <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-101010?logo=visualstudiocode&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Github" src="https://img.shields.io/badge/-Github-eee?logo=github&amp;style=for-the-badge">
+     <img alt="Github" src="https://img.shields.io/badge/-Github-101010?logo=github&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Git" src="https://img.shields.io/badge/-Git-eee?logo=git&amp;style=for-the-badge">
+     <img alt="Git" src="https://img.shields.io/badge/-Git-101010?logo=git&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Figma" src="https://img.shields.io/badge/-Figma-eee?logo=figma&amp;style=for-the-badge">
+     <img alt="Figma" src="https://img.shields.io/badge/-Figma-101010?logo=figma&amp;style=for-the-badge">
   </span>
 
   <p>
-     <img alt="Other" src="https://img.shields.io/badge/-Other-important" width="100">
+     <img alt="Other" src="https://img.shields.io/badge/-Other-eee" width="100">
   </p>
   
   <span>
-     <img alt="APIs Fetching" src="https://img.shields.io/badge/-APIs Fetching-eee?style=for-the-badge">
+     <img alt="APIs Fetching" src="https://img.shields.io/badge/-APIs Fetching-101010?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="CRUD Operations" src="https://img.shields.io/badge/-CRUD Operations-eee?style=for-the-badge">
+     <img alt="CRUD Operations" src="https://img.shields.io/badge/-CRUD Operations-101010?style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Js Libraries" src="https://img.shields.io/badge/-Js Libraries-eee?style=for-the-badge">
+     <img alt="Js Libraries" src="https://img.shields.io/badge/-Js Libraries-101010?style=for-the-badge">
   </span>
   
 </div>
