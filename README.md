@@ -23,7 +23,7 @@
 <h4 style="margin-top: 2rem" align="left">Frontend</h3>
 <p>
     <a href="#" target="_blank">  
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" align="center" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" align="center" />
         <br />
         Html
     </a>
