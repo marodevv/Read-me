@@ -26,7 +26,7 @@
   </span>
   
   <span>
-     <img alt="Css" src="https://img.shields.io/badge/-Css-yellowgreen?logo=css&amp;style=for-the-badge">
+     <img alt="Css" src="https://img.shields.io/badge/-Css-#ADD8E6?logo=css&amp;style=for-the-badge">
   </span>
   
   <span>
