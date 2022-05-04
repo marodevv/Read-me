@@ -18,7 +18,7 @@
 <h3 align="left">My toolbox</h3>
 <div>
   <p> 
-     <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red" width="125">
+     <img alt="Frontend" src="https://img.shields.io/badge/Frontend---" width="125">
   </p>
   
   <span>
