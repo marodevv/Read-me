@@ -53,6 +53,8 @@
         Styled-components
     </a>
     <br />
+    <br />
+    <br />
     <a href="" target="_blank">  
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" align="center" />
         <br />
