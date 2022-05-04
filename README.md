@@ -22,7 +22,7 @@
   </p>
   
   <span>
-     <img alt="Html" src="https://img.shields.io/badge/style-html5-green?logo=html5&amp;style=for-the-badge">
+     <img alt="Html" src="https://img.shields.io/badge/-html5-green?logo=html5&amp;style=for-the-badge">
   </span>
   
   <span>
