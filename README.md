@@ -18,7 +18,7 @@
 <a href="https://hashnode.com/@marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@marodevv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/marodevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marodevv" height="30" width="40" /></a>
 </p>
-
+![Html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)&nbsp;
 <h3 align="left">My toolbox</h3>
 <h4 style="margin-top: 2rem" align="left">Frontend</h3>
 <p>
@@ -29,7 +29,7 @@
         Html
     </a>
     </div>
-    ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)&nbsp;
+    
     <br />
      <div>
     <a href="#" target="_blank">  
