@@ -58,7 +58,7 @@
   </p>
 
   <p>
-     <img alt="Backend(currently learning)" src="https://img.shields.io/badge/Backend(currently learning)--red"  width="125">
+     <img alt="Backend" src="https://img.shields.io/badge/Backend--red" width="125">
   </p>
   
   <p> 
