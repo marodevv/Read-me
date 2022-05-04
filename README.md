@@ -21,8 +21,8 @@
 
 <h3 align="left">My toolbox</h3>
 <div>
-  <p style="display: inline;"> 
-     <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red" width="100">
+  <p style="margin-bottom:2rem;display:inline;"> 
+     <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red" width="125">
   </p>
   
   <p style="display: inline;">
@@ -57,8 +57,8 @@
      <img alt="Framer motion" src="https://img.shields.io/badge/Framer motion--white">
   </p>
 
-  <p style="display: inline;">
-     <img alt="Backend(currently learning)" src="https://img.shields.io/badge/Backend(currently learning)--red">
+  <p style="margin-bottom:2rem;display: inline;">
+     <img alt="Backend(currently learning)" src="https://img.shields.io/badge/Backend(currently learning)--red"  width="125">
   </p>
   
   <p style="display: inline;"> 
@@ -73,8 +73,8 @@
      <img alt="Node.js" src="https://img.shields.io/badge/Node.js--white">
   </p>
 
-  <p style="display: inline;">
-     <img alt="General" src="https://img.shields.io/badge/General--red">
+  <p style="margin-bottom: 2rem;display: inline;">
+     <img alt="General" src="https://img.shields.io/badge/General--red"  width="125">
   </p>
 
 
@@ -98,8 +98,8 @@
      <img alt="Figma" src="https://img.shields.io/badge/Figma--white">
   </p>
 
-  <p style="display: inline;">
-     <img alt="Other" src="https://img.shields.io/badge/Other--red">
+  <p style="margin-bottom: 2rem;display: inline;">
+     <img alt="Other" src="https://img.shields.io/badge/Other--red" width="125">
   </p>
   
   <p style="display: inline;">
