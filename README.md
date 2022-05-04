@@ -21,7 +21,7 @@
 
 <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;">
   <a href="" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
+     <img style="margin: 0 auto;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
   </a>
   <p>React</p>
 </div>
