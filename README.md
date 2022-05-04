@@ -22,7 +22,7 @@
   </p>
   
   <span>
-     <img alt="Html" src="https://img.shields.io/badge/-Html-important?style=for-the-badge&logo=appveyor">
+     <img alt="Html" src="https://img.shields.io/badge/-Html-important?style=for-the-badge">
   </span>
   
   <span>
