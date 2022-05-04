@@ -21,13 +21,13 @@
 
 <h3 align="left">My toolbox</h3>
 <div>
-      <a href="#" target="_blank"> 
+  <p href="#" target="_blank"> 
      <img alt="Frontend" src="https://img.shields.io/badge/Frontend--red">
-  </a>
+  </p>
   
-  <a href="#" target="_blank"> 
+  <p href="#" target="_blank"> 
      <img alt="Html" src="https://img.shields.io/badge/Html--white">
-  </a>
+  </p>
   
   <a href="#" target="_blank"> 
      <img alt="Css" src="https://img.shields.io/badge/Css--white">
