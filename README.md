@@ -29,6 +29,7 @@
         Html
     </a>
     </div>
+    ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)&nbsp;
     <br />
      <div>
     <a href="#" target="_blank">  
