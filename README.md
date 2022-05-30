@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marwan mostafa</h1>
-<h3 align="center">A passionate Frontend developer from Egypt</h3>
+<h3 align="center">A passionate Fullstack developer from Egypt specialized in Frontend</h3>
 
-- 🌱 I’m currently learning **Frontend(Redux-toolkit), Backend(MongoDB, Express, Node.js)**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **React projects**
+- 👯 I’m looking to collaborate on **All types of projects**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Fullstack development**
 
 - 📫 How to reach me **marodevv@gmail.com**
 
@@ -48,13 +48,17 @@
   <span>
      <img alt="React" src="https://img.shields.io/badge/-React-101010?logo=react&amp;style=for-the-badge">
   </span>
+  
+  <span>
+     <img alt="Redux" src="https://img.shields.io/badge/-Redux toolkit-101010?logo=redux&amp;style=for-the-badge">
+  </span>
 
   <span >
      <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-101010?logo=framer&amp;style=for-the-badge">
   </span>
 
   <p>
-     <img alt="Backend(currently learning)" src="https://img.shields.io/badge/-Backend(currently learning)-eee" width="350">
+     <img alt="Backend" src="https://img.shields.io/badge/-Backend-eee" width="350">
   </p>
   
   <span> 
@@ -91,23 +95,11 @@
   </span>
   
   <span>
+     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-101010?logo=vercel&amp;style=for-the-badge">
+  </span>
+  
+  <span>
      <img alt="Figma" src="https://img.shields.io/badge/-Figma-101010?logo=figma&amp;style=for-the-badge">
-  </span>
-
-  <p>
-     <img alt="Other" src="https://img.shields.io/badge/-Other-eee" width="100">
-  </p>
-  
-  <span>
-     <img alt="APIs Fetching" src="https://img.shields.io/badge/-APIs Fetching-101010?style=for-the-badge">
-  </span>
-  
-  <span>
-     <img alt="CRUD Operations" src="https://img.shields.io/badge/-CRUD Operations-101010?style=for-the-badge">
-  </span>
-  
-  <span>
-     <img alt="Js Libraries" src="https://img.shields.io/badge/-Js Libraries-101010?style=for-the-badge">
   </span>
   
 </div>
