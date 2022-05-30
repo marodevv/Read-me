@@ -58,7 +58,7 @@
   </span>
 
   <p>
-     <img alt="Backend" src="https://img.shields.io/badge/-Backend-eee" width="350">
+     <img alt="Backend" src="https://img.shields.io/badge/-Backend-eee" width="125">
   </p>
   
   <span> 
@@ -107,6 +107,3 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marodevv&show_icons=true&locale=en&layout=compact" alt="marodevv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marodevv&show_icons=true&locale=en" alt="marodevv" /></p>
-
