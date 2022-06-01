@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **All types of projects**
 
-- 💬 Ask me about **Fullstack development**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **marodevv@gmail.com**
 
