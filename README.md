@@ -82,7 +82,7 @@
   </span>
   
   <span>
-     <img alt="Cheerio.js" src="https://img.shields.io/badge/-Cheerio.js-101010?logo=cheerio&amp;style=for-the-badge">
+     <img alt="Cheerio.js" src="https://img.shields.io/badge/-Cheerio.js-101010?logo=cheeriodotjs&amp;style=for-the-badge">
   </span>
 
   <p>
