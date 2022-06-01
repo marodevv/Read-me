@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan mostafa</h1>
-<h3 align="center">A passionate Fullstack developer from Egypt specialized in Frontend</h3>
+<h3 align="center">A passionate Fullstack developer from Egypt specialized in Frontend development</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
