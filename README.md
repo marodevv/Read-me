@@ -38,7 +38,7 @@
   </span>
   
   <span>
-     <img alt="Styled components" src="https://img.shields.io/badge/-Styled-components-101010?logo=styled-components&amp;style=for-the-badge">
+     <img alt="Styled components" src="https://img.shields.io/badge/-Styled components-101010?logo=styled-components&amp;style=for-the-badge">
   </span>
 
   <span>
@@ -50,15 +50,15 @@
   </span>
   
   <span>
-     <img alt="React-router" src="https://img.shields.io/badge/-React-router-101010?logo=react-router&amp;style=for-the-badge">
+     <img alt="React router" src="https://img.shields.io/badge/-React router-101010?logo=react-router&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Redux-toolkit" src="https://img.shields.io/badge/-Redux-toolkit-101010?logo=redux&amp;style=for-the-badge">
+     <img alt="Redux toolkit" src="https://img.shields.io/badge/-Redux toolkit-101010?logo=redux&amp;style=for-the-badge">
   </span>
 
   <span >
-     <img alt="Framer-motion" src="https://img.shields.io/badge/-Framer-motion-101010?logo=framer&amp;style=for-the-badge">
+     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-101010?logo=framer&amp;style=for-the-badge">
   </span>
 
   <p>
@@ -75,6 +75,14 @@
   
   <span>
      <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-101010?logo=nodedotjs&amp;style=for-the-badge">
+  </span>
+  
+  <span>
+     <img alt="Axios" src="https://img.shields.io/badge/-Axios-101010?logo=axios&amp;style=for-the-badge">
+  </span>
+  
+  <span>
+     <img alt="Cheerio.js" src="https://img.shields.io/badge/-Cheerio.js-101010?logo=cheerio&amp;style=for-the-badge">
   </span>
 
   <p>
