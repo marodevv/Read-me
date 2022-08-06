@@ -57,8 +57,12 @@
      <img alt="Redux toolkit" src="https://img.shields.io/badge/-Redux toolkit-101010?logo=redux&amp;style=for-the-badge">
   </span>
 
-  <span >
+  <span>
      <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-101010?logo=framer&amp;style=for-the-badge">
+  </span>
+
+  <span>
+     <img alt="Axios" src="https://img.shields.io/badge/-Axios-101010?logo=axios&amp;style=for-the-badge">
   </span>
 
   <p>
@@ -78,11 +82,23 @@
   </span>
   
   <span>
-     <img alt="Axios" src="https://img.shields.io/badge/-Axios-101010?logo=axios&amp;style=for-the-badge">
+     <img alt="Cheerio.js" src="https://img.shields.io/badge/-Cheerio.js-101010?logo=cheeriodotjs&amp;style=for-the-badge">
   </span>
   
   <span>
-     <img alt="Cheerio.js" src="https://img.shields.io/badge/-Cheerio.js-101010?logo=cheeriodotjs&amp;style=for-the-badge">
+     <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-101010?logo=Auth0&amp;style=for-the-badge">
+  </span>
+  
+  <span>
+     <img alt="JWT" src="https://img.shields.io/badge/-JWT-101010?logo=JWT&amp;style=for-the-badge">
+  </span>
+  
+  <span>
+     <img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-101010?logo=cloudinary&amp;style=for-the-badge">
+  </span>
+  
+  <span>
+     <img alt="Sokcet.io" src="https://img.shields.io/badge/-Sokcet.io-101010?logo=socketdotio&amp;style=for-the-badge">
   </span>
 
   <p>
@@ -108,6 +124,10 @@
   
   <span>
      <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-101010?logo=vercel&amp;style=for-the-badge">
+  </span>
+  
+  <span>
+     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-101010?logo=heroku&amp;style=for-the-badge">
   </span>
   
   <span>
