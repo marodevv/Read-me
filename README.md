@@ -98,7 +98,7 @@
   </span>
   
   <span>
-     <img alt="Socket.io" src="(https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=">
+     <img alt="Socket.io" src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=">
   </span>
 
   <p>
