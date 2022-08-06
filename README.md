@@ -22,43 +22,43 @@
   </p>
   
   <span>
-     <img alt="Html" src="https://img.shields.io/badge/-Html-101010?logo=html5&amp;style=for-the-badge">
+     <img alt="Html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Css" src="https://img.shields.io/badge/-Css-101010?logo=css3&amp;style=for-the-badge">
+     <img alt="Css" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Sass" src="https://img.shields.io/badge/-Sass-101010?logo=sass&amp;style=for-the-badge">
+     <img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-101010?logo=tailwindcss&amp;style=for-the-badge">
+     <img alt="Tailwindcss" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=">
   </span>
   
   <span>
-     <img alt="Styled components" src="https://img.shields.io/badge/-Styled components-101010?logo=styled-components&amp;style=for-the-badge">
+     <img alt="Styled components" src="https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=">
   </span>
 
   <span>
-     <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-101010?logo=javascript&amp;style=for-the-badge">
+     <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
   </span>
 
   <span>
-     <img alt="React" src="https://img.shields.io/badge/-React-101010?logo=react&amp;style=for-the-badge">
+     <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=">
   </span>
   
   <span>
-     <img alt="React router" src="https://img.shields.io/badge/-React router-101010?logo=react-router&amp;style=for-the-badge">
+     <img alt="React router" src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Redux toolkit" src="https://img.shields.io/badge/-Redux toolkit-101010?logo=redux&amp;style=for-the-badge">
+     <img alt="Redux toolkit" src="https://img.shields.io/static/v1?style=for-the-badge&message=Redux toolkit&color=764ABC&logo=Redux&logoColor=FFFFFF&label=">
   </span>
 
   <span>
-     <img alt="Framer motion" src="https://img.shields.io/badge/-Framer motion-101010?logo=framer&amp;style=for-the-badge">
+     <img alt="Framer motion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Framer motion&color=0055FF&logo=Framer&logoColor=FFFFFF&label=">
   </span>
 
   <span>
@@ -70,15 +70,15 @@
   </p>
   
   <span> 
-     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-101010?logo=mongodb&amp;style=for-the-badge">
+     <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Express" src="https://img.shields.io/badge/-Express-101010?logo=express&amp;style=for-the-badge">
+     <img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=AliExpress&color=FF4747&logo=AliExpress&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-101010?logo=nodedotjs&amp;style=for-the-badge">
+     <img alt="Node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=">
   </span>
   
   <span>
@@ -86,11 +86,11 @@
   </span>
   
   <span>
-     <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-101010?logo=Auth0&amp;style=for-the-badge">
+     <img alt="Auth0" src="https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=EB5424&logo=Auth0&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="JWT" src="https://img.shields.io/badge/-JWT-101010?logo=JWT&amp;style=for-the-badge">
+     <img alt="JWT" src="https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=">
   </span>
   
   <span>
@@ -98,7 +98,7 @@
   </span>
   
   <span>
-     <img alt="Sokcet.io" src="https://img.shields.io/badge/-Sokcet.io-101010?logo=socketdotio&amp;style=for-the-badge">
+     <img alt="Socket.io" src="(https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=">
   </span>
 
   <p>
@@ -107,27 +107,27 @@
 
 
   <span>
-     <img alt="Vite" src="https://img.shields.io/badge/-Vite-101010?logo=vite&amp;style=for-the-badge">
+     <img alt="Vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-101010?logo=visualstudiocode&amp;style=for-the-badge">
+     <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Github" src="https://img.shields.io/badge/-Github-101010?logo=github&amp;style=for-the-badge">
+     <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Git" src="https://img.shields.io/badge/-Git-101010?logo=git&amp;style=for-the-badge">
+     <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-101010?logo=vercel&amp;style=for-the-badge">
+     <img alt="Vercel" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=">
   </span>
   
   <span>
-     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-101010?logo=heroku&amp;style=for-the-badge">
+     <img alt="Heroku" src="https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=">
   </span>
   
   <span>
