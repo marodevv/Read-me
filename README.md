@@ -64,6 +64,10 @@
   <span>
      <img alt="Axios" src="https://img.shields.io/badge/-Axios-101010?logo=axios&amp;style=for-the-badge">
   </span>
+  
+  <span>
+     <img alt="Auth0" src="https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=EB5424&logo=Auth0&logoColor=FFFFFF&label=">
+  </span>
 
   <p>
      <img alt="Backend" src="https://img.shields.io/badge/-Backend-eee" width="125">
@@ -86,7 +90,7 @@
   </span>
   
   <span>
-     <img alt="Auth0" src="https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=EB5424&logo=Auth0&logoColor=FFFFFF&label=">
+     <img alt="OAuth" src="https://img.shields.io/static/v1?style=for-the-badge&message=OAuth&color=black&label=">
   </span>
   
   <span>
@@ -124,10 +128,6 @@
   
   <span>
      <img alt="Vercel" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Heroku" src="https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=">
   </span>
   
   <span>
