@@ -9,17 +9,15 @@
 
 - 📫 How to reach me **marodevv@gmail.com**
 
-<h2 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">    
 <a href="https://linkedin.com/in/marwan-mostafa-4ba111210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-mostafa-4ba111210" height="30" width="40" /></a>
 <a href="https://fb.com/marwanmostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwanmostafa24" height="30" width="40" /></a>
 <a href="https://instagram.com/marwan_mostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marwan_mostafa24" height="30" width="40" /></a>
 
-<h2 align="left">My toolbox</h3>
+<h1>My toolbox</h1>
 <div>
-  <p> 
-     <img alt="Frontend" src="https://img.shields.io/badge/-Frontend-eee" width="125">
-  </p>
+  <h3>Frontend</h3>
   
   <span>
      <img alt="Html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
@@ -69,9 +67,7 @@
      <img alt="Auth0" src="https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=EB5424&logo=Auth0&logoColor=FFFFFF&label=">
   </span>
 
-  <p>
-     <img alt="Backend" src="https://img.shields.io/badge/-Backend-eee" width="125">
-  </p>
+  <h3>Backend</h3>
   
   <span> 
      <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
@@ -104,11 +100,12 @@
   <span>
      <img alt="Socket.io" src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=">
   </span>
+  
+  <span>
+     <img alt="Mongoose" src="https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=47A248&label=">
+  </span>
 
-  <p>
-     <img alt="General" src="https://img.shields.io/badge/-General-eee"  width="125">
-  </p>
-
+  <h3>General</h3>
 
   <span>
      <img alt="Vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=">
@@ -138,4 +135,6 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marodevv&show_icons=true&locale=en&layout=compact" alt="marodevv" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marodevv&show_icons=true&locale=en&layout=compact" alt="marodevv" />
+</p>
