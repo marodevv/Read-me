@@ -128,6 +128,10 @@
   </span>
   
   <span>
+     <img alt="Render" src="https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=000000&logo=render&logoColor=FFFFFF&label=">
+  </span>
+  
+  <span>
      <img alt="Figma" src="https://img.shields.io/badge/-Figma-101010?logo=figma&amp;style=for-the-badge">
   </span>
   
