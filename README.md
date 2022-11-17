@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan mostafa</h1>
-<h3 align="center">A passionate Fullstack developer from Egypt specialized in Frontend development</h3>
+<h3 align="center">A passionate Fullstack developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **marodevv@gmail.com**
+- 📫 How to reach me **marwanm.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">    
@@ -140,5 +140,5 @@
 <br />
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marodevv&show_icons=true&locale=en&layout=compact" alt="marodevv" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanmodev&show_icons=true&locale=en&layout=compact" alt="marwanmodev" />
 </p>
