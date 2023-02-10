@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Marwan Mostafa, A Fullstack Software developer 👨‍💻</div>  
+## <div align="center">Hello there, I'm Marwan, A Fullstack Software developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Prisma, NextAuth, Zustand and Docker  
