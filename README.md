@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan Mostafa</h1>
-<h3 align="center">A Passionate Fullstack Software Developer who builds web applications</h3>
+<h3 align="center">A Passionate Full Stack Software Developer who builds web applications</h3>
 
 <br>
 
