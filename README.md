@@ -1,144 +1,110 @@
-<h1 align="center">Hi 👋, I'm Marwan mostafa</h1>
-<h3 align="center">A passionate Fullstack developer from Egypt</h3>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🌱 I’m currently learning **Next.js**
+### <div align="center">I'm Marwan Mostafa, A Fullstack Software developer 👨‍💻</div>  
+  
 
-- 👯 I’m looking to collaborate on **All types of projects**
+- 🌱 I’m currently learning Prisma, NextAuth, Zustand and Docker  
+  
 
-- 💬 Ask me about **Web development**
+- ❓ Ask me about anything related to MERN/PERN stacks and related technologies  
+  
 
-- 📫 How to reach me **[marwanm.dev@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=marwanm.dev%40gmail.com&su=SUBJECT&body=BODY&tf=cm)**
+- ⚡ Fun fact: I use tabs over spaces  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">    
-<a href="https://linkedin.com/in/marwanm-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan-mostafa-4ba111210" height="30" width="40" /></a>
-<a href="https://fb.com/marwanmostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marwanmostafa24" height="30" width="40" /></a>
-<a href="https://instagram.com/marwan_mostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marwan_mostafa24" height="30" width="40" /></a>
+<br/>  
 
-<h1>My toolbox</h1>
-<div>
-  <h3>Frontend</h3>
-  
-  <span>
-     <img alt="Html" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Css" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Tailwindcss" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=">
-  </span>
-  
-  <span>
-     <img alt="Styled components" src="https://img.shields.io/static/v1?style=for-the-badge&message=styled-components&color=DB7093&logo=styled-components&logoColor=FFFFFF&label=">
-  </span>
 
-  <span>
-     <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
-  </span>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-  <span>
-     <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=">
-  </span>
-  
-  <span>
-     <img alt="React router" src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Redux toolkit" src="https://img.shields.io/static/v1?style=for-the-badge&message=Redux toolkit&color=764ABC&logo=Redux&logoColor=FFFFFF&label=">
-  </span>
 
-  <span>
-     <img alt="Framer motion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Framer motion&color=0055FF&logo=Framer&logoColor=FFFFFF&label=">
-  </span>
 
-  <span>
-     <img alt="Axios" src="https://img.shields.io/badge/-Axios-101010?logo=axios&amp;style=for-the-badge">
-  </span>
-  
-  <span>
-     <img alt="Auth0" src="https://img.shields.io/static/v1?style=for-the-badge&message=Auth0&color=EB5424&logo=Auth0&logoColor=FFFFFF&label=">
-  </span>
-
-  <h3>Backend</h3>
-  
-  <span> 
-     <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Cheerio.js" src="https://img.shields.io/badge/-Cheerio.js-101010?logo=cheeriodotjs&amp;style=for-the-badge">
-  </span>
-  
-  <span>
-     <img alt="OAuth" src="https://img.shields.io/static/v1?style=for-the-badge&message=OAuth&color=black&label=">
-  </span>
-  
-  <span>
-     <img alt="JWT" src="https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-101010?logo=cloudinary&amp;style=for-the-badge">
-  </span>
-  
-  <span>
-     <img alt="Socket.io" src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Mongoose" src="https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=47A248&label=">
-  </span>
-
-  <h3>General</h3>
-
-  <span>
-     <img alt="Vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Github" src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Vercel" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Render" src="https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=000000&logo=render&logoColor=FFFFFF&label=">
-  </span>
-  
-  <span>
-     <img alt="Figma" src="https://img.shields.io/badge/-Figma-101010?logo=figma&amp;style=for-the-badge">
-  </span>
-  
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://dev.to/marwanm_dev" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/marwanm-dev" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/marwan_mostafa24" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marwanm-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
 
 <br />
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanm-dev&show_icons=true&locale=en&layout=compact" alt="marwanm-dev" />
-</p>
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
