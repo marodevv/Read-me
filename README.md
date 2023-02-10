@@ -18,7 +18,7 @@
 <br>
 
 📕 &nbsp;**Latest Blog Posts**
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marwanm_dev/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
 
 <br>
 
