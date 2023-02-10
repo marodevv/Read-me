@@ -34,6 +34,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanm-dev&show_icons=true&locale=en&layout=compact" alt="marwanm-dev" /></p>
+<p><img align="left" src="https://camo.githubusercontent.com/d9e4915e654189d1ad398e8567fb16650b87a2b8c451ddbc64ff3aea008c85fa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6b6163686f5f6761" alt="marwanm-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanm-dev&show_icons=true&locale=en" alt="marwanm-dev" /></p>
