@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwan Mostafa</h1>
 <h3 align="center">A Software Developer</h3>
 
-- I'm currently working on **something cool 😉**
+- 🔭 I'm currently working on **something cool 😉**
 
 - 🌱 I’m currently learning **NextAuth/Prisma/Zustand and Docker**
 
@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **marwanm.dev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+📕 &nbsp;**Latest Blog Posts**
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+
+🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/marwanm_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marwanm_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marwanm-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwanm-dev" height="30" width="40" /></a>
