@@ -21,8 +21,6 @@
 
 - [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marwanm_dev/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
 
-<br>
-
 <h4 align="left"><strong>🔗 &nbsp;Connect with me</strong></h4>
 <p align="left">
 <a href="https://dev.to/marwanm_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marwanm_dev" height="30" width="40" /></a>
