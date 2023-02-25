@@ -18,6 +18,7 @@
 <br>
 
 <h4 align="left"><strong>📕 &nbsp;Latest Blog posts</strong></h4>
+
 - [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marwanm_dev/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
 
 <br>
