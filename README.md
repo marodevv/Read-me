@@ -15,17 +15,15 @@
 
 - 📫 How to reach me **marwanm.dev@gmail.com**
 
-<br>
-
 <h4 align="left"><strong>📕 &nbsp;Latest Blog posts</strong></h4>
 
 - [💁‍♂️ Built a Dev.to replica with The MERN stack and more](https://dev.to/marwanm_dev/built-a-devto-replica-with-the-mern-stack-and-more-fbd)
 
 <h4 align="left"><strong>🔗 &nbsp;Connect with me</strong></h4>
 <p align="left">
-<a href="https://dev.to/marwanm_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marwanm_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marwanm-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwanm-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/marwan_mostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marwan_mostafa24" height="30" width="40" /></a>
+<a href="https://dev.to/marwanm_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marwanm_dev" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/marwanm-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwanm-dev" height="20" width="30" /></a>
+<a href="https://instagram.com/marwan_mostafa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marwan_mostafa24" height="20" width="30" /></a>
 </p>
 
 <h4 align="left"><strong>💻 Skills</strong></h4>
@@ -33,6 +31,6 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=marwanm-dev&theme=react&show_icons=true" alt="marwanm-dev" />
+<img src="https://github-readme-stats.vercel.app/api?username=marwanm-dev&theme=react&show_icons=true" alt="marwanm-dev" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanm-dev&langs_count=9&layout=compact&theme=react" alt="marwanm-dev" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanm-dev&langs_count=9&layout=compact&theme=react" alt="marwanm-dev" />
